@@ -1,0 +1,4 @@
+1- Watch the videos
+2- Open and read the "matplotlib_example" and "plotting_type_quality_example" notebooks carefully. Run them !
+3- Solve and submit the "wine_visualizations_quiz" notebook
+

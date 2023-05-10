@@ -1,0 +1,2 @@
+Read the "assessing.ipynb" file first
+Solve and submit "assessing_quiz.ipynb" file
